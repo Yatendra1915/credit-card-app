@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Credit card</string>
+    <string name="invalid_name">Please Enter Valid First Name</string>
+    <string name="invalid_lastName">Please Enter Valid Last Name</string>
+    <string name="invalidExpiry">Please Enter Valid Expiry</string>
+    <string name="EnterValidCard">Please Enter Valid Card</string>
+    <string name="invalidCVV">Please Enter Valid CVV</string>
+</resources>
